@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Stylish Blue Shirt",
+    "image": "https://i.ibb.co.com/wwRZz07/blueshirt.jpg",
+    "description": "A trendy blue shirt for all occasions.",
+    "price": 30,
+    "category": "Men's Clothing",
+    "isFeatured": true
+  },
+  {
+    "id": 2,
+    "name": "Elegant Black Dress",
+    "image": "https://i.ibb.co.com/6g56RqW/black-dress.jpg",
+    "description": "A timeless black dress for any event.",
+    "price": 50,
+    "category": "Women's Clothing",
+    "isFeatured": true
+  },
+  {
+    "id": 3,
+    "name": "Comfortable Sneakers",
+    "image": "https://i.ibb.co.com/b32vst2/sneaker.jpg",
+    "price": 40,
+    "category": "Shoes",
+    "isFeatured": false,
+    "description": "Perfect for daily wear or workouts. These comfortable sneakers will keep your feet happy all day long."
+  },
+  {
+    "id": 4,
+    "name": "Leather Backpack",
+    "image": "https://i.ibb.co.com/RPPYZLL/leatherbag.jpg",
+    "price": 80,
+    "category": "Bags",
+    "isFeatured": true,
+    "description": "A durable and stylish leather backpack for work or travel. This spacious bag has plenty of room for all your essentials."
+  },
+  {
+    "id": 5,
+    "name": "Smartwatch",
+    "image": "https://i.ibb.co.com/fnTCYWq/smartwatch.jpg",
+    "description": "Track your fitness, receive notifications, and more.",
+    "price": 130,
+    "category": "Electronics",
+    "isFeatured": false
+  },
+  {
+    "id": 6,
+    "name": "Wireless Headphones",
+    "image": "https://i.ibb.co.com/pvTQ92m/headphone.jpg",
+    "description": "Enjoy your favorite music without wires.",
+    "price": 60,
+    "category": "Electronics",
+    "isFeatured": true
+  }
+]
+ 

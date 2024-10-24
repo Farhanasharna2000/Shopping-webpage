@@ -1,0 +1,9 @@
+.btn {
+    padding: 15px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: rgba(170, 18, 155, 0.827);
+    color: white;
+}
